@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/115325553?v=4" 
        width="140" 
@@ -54,9 +50,9 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 
 | Project | Description | Tech |
 |---|---|---|
-| [Zono](https://github.com/CameronStorer/CSC4033) | Group software engineering project | Java, Team |
-| [CSC475 — AI Assignments](https://github.com/ashx004/CSC475) | Artificial Intelligence coursework | Python |
-| [CSC330 — Programming Languages](https://github.com/ashx004/CSC330) | Paradigms, IPC, parsers, and more | Haskell, C, various |
+| [Zono](https://github.com/CameronStorer/CSC4033) | Group software engineering project | Typescript, React Native, Expo |
+| [CSC475 - Artificial Intelligence](https://github.com/ashx004/CSC475) | Artificial Intelligence coursework | Java |
+| UjGram | Full stack social media web app | Python, Flask, HTML, CSS, MySQL |
 
 ---
 
