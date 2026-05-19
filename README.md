@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/115325553?v=4" 
        width="140" 
