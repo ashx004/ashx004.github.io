@@ -1,0 +1,14 @@
+- name: Zono
+  description: Group software engineering project built for CSC4033.
+  url: https://github.com/CameronStorer/CSC4033
+  tags: [Java, Team Project, Software Engineering]
+
+- name: CSC475 — Artificial Intelligence
+  description: AI assignments covering search, classification, and machine learning fundamentals.
+  url: https://github.com/ashx004/CSC475
+  tags: [Python, AI, Machine Learning]
+
+- name: CSC330 — Programming Languages
+  description: Assignments covering language paradigms, IPC, and parser construction.
+  url: https://github.com/ashx004/CSC330
+  tags: [Haskell, C, Parsers, Paradigms]
