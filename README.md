@@ -4,6 +4,21 @@ I am a senior Computer Science student at Louisiana Tech University, located in 
 
 ![My fiance and I](https://avatars.githubusercontent.com/u/115325553?v=4)
 
+# Languages:
+* Java
+* JS/Typescript
+* Python
+* Rust
+* C
+* Haskell
+
+# Tools:
+* Linux
+* Git
+* Docker
+* Opencode
+* React
+
 # My interests include:
 * Programming languages and theory of computation
 * AI
