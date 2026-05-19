@@ -1,6 +1,6 @@
 # Hi!
 ## My name is Ashton Harrell.
-I am a senior Computer Science student at Louisiana Tech University, located in Ruston, LA, and graduating in Fall 2026. You can find my Github [here](https://github.com/ashx004) and my LinkedIn [here](https://www.linkedin.com/in/axharrell/). I am open to work, and can be easily reached at my LinkedIn or my email, ashx004@gmail.com
+I am a senior Computer Science student at Louisiana Tech University, located in Ruston, LA, and graduating in Fall 2026. You can find my Github [here](https://github.com/ashx004) and my LinkedIn [here](https://www.linkedin.com/in/axharrell/). I am open to work, and can be easily reached at my LinkedIn or my email, ashx004@gmail.com. My résumé can be found [here!](https://github.com/ashx004/resume/blob/main/Ashton_Harrell____Resume.pdf)
 
 ![My fiance and I](https://avatars.githubusercontent.com/u/115325553?v=4)
 
