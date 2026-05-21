@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a senior Computer Science student at Louisiana Tech University graduating Fall 2026. I'm interested in programming language theory, AI, software design, and applied mathematics. I'm actively seeking full-time software engineering/development roles and am reachable via LinkedIn or email.
+I'm a senior Computer Science student at Louisiana Tech University graduating Fall 2026. I'm interested in programming languages and computational theory, AI, software design, and applied mathematics in programming. I'm actively seeking full-time software engineering/development roles and am reachable via LinkedIn or email.
 
 ---
 
@@ -37,7 +37,7 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
-**Tools & Platforms**
+**Tools, Frameworks, & Platforms**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -52,7 +52,7 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 |---|---|---|
 | [Zono](https://github.com/CameronStorer/CSC4033) | Group software engineering project | Typescript, React Native, Expo |
 | [CSC475 - Artificial Intelligence](https://github.com/ashx004/CSC475) | Artificial Intelligence coursework | Java |
-| UjGram | Full stack social media web app | Python, Flask, HTML, CSS, MySQL |
+| UjGram | Full stack social media web app | Python, Flask, HTML, CSS, MySQL, Docker |
 | [Processor](https://github.com/ashx004/Single-Cycle-RISC-V-Processor-32-bit-) | Single-Cycle RISC-V Processor capable of executing a select set of RISC-V instructions | Logisim-Evolution, RISC-V ISA |
 
 
