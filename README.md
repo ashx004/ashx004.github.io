@@ -52,7 +52,7 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 |---|---|---|
 | [Zono](https://github.com/CameronStorer/CSC4033) | Group software engineering project | Typescript, React Native, Expo |
 | [CSC475 - Artificial Intelligence](https://github.com/ashx004/CSC475) | Artificial Intelligence coursework | Java |
-| UjGram | Full stack social media web app | Python, Flask, HTML, CSS, MySQL, Docker |
+| [UjGram](https://github.com/ashx004/CSC4303-Database-Project) | Full stack social media web app | Python, Flask, HTML, CSS, MySQL, Docker |
 | [Processor](https://github.com/ashx004/Single-Cycle-RISC-V-Processor-32-bit-) | Single-Cycle RISC-V Processor capable of executing a select set of RISC-V instructions | Logisim-Evolution, RISC-V ISA |
 
 
