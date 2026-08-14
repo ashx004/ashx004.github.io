@@ -61,11 +61,6 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 ## 🎓 Coursework
 
 **Current**
-- CSC4052 Senior Capstone I
-- STAT4053 Statistical Methods
-- CSC4903 Applied Computing Project
-
-**Next Quarter**
 - CSC4061 Senior Capstone II
 - BISC1311 Biological Principles Lab
 - ENGL3633 Scientific and Engr. Presentation
@@ -79,6 +74,7 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 - Software design patterns
 - Applied mathematics in computing
 - Functional programming
+- Natural Language Processing and RAG
 
 ---
 
