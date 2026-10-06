@@ -50,6 +50,7 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 
 | Project | Description | Tech |
 |---|---|---|
+| [Catalyst](https://catalyst.zonocsc.com) | AI powered learning/academic platform | Typescript, React, Next.js |
 | [Zono](https://github.com/CameronStorer/CSC4033) | Group software engineering project | Typescript, React Native, Expo |
 | [CSC475 - Artificial Intelligence](https://github.com/ashx004/CSC475) | Artificial Intelligence coursework | Java |
 | [UjGram](https://github.com/ashx004/CSC4303-Database-Project) | Full stack social media web app | Python, Flask, HTML, CSS, MySQL, Docker |
