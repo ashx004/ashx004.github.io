@@ -11,7 +11,7 @@
     <a href="https://github.com/ashx004">GitHub</a> ·
     <a href="https://www.linkedin.com/in/axharrell/">LinkedIn</a> ·
     <a href="mailto:ashx004@gmail.com">Email</a> ·
-    <a href="https://github.com/ashx004/resume/blob/main/Ashton_Harrell____Resume.pdf">Résumé (PDF)</a>
+    <a href="https://github.com/ashx004/resume/blob/main/Ashton Harrell - Resume.pdf">Résumé (PDF)</a>
   </p>
 
   <p><em>Soli Deo Gloria</em></p>
