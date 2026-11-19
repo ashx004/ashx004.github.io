@@ -5,7 +5,7 @@
        alt="Ashton Harrell" />
 
   <h1>Ashton Harrell</h1>
-  <p><strong>CS Senior @ Louisiana Tech University · Ruston, LA · Open to Work · Fall 2026</strong></p>
+  <p><strong>Louisiana Tech University Computer Science Alumnus · Ruston, LA · Open to Work · SWE/Dev </strong></p>
 
   <p>
     <a href="https://github.com/ashx004">GitHub</a> ·
