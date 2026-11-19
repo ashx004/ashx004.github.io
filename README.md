@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/115325553?v=4" 
+  <img src="/assets/ashton_face.png" 
        width="140" 
        style="border-radius: 50%; border: 3px solid #ccc;" 
        alt="Ashton Harrell" />
