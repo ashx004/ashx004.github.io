@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a senior Computer Science student at Louisiana Tech University graduating Fall 2026. I'm interested in programming languages and computational theory, AI, software design, and applied mathematics in programming. I'm actively seeking full-time software engineering/development roles and am reachable via LinkedIn or email.
+I have just graduated with my B.S. in Computer Science from Louisiana Tech with a minor in Mathematics. I'm interested in programming languages and computational theory, AI, software design, and applied mathematics in programming. I'm actively seeking full-time software engineering/development roles and am reachable via LinkedIn or email. Below are some of the tools I have used the most in my time developing software. 
 
 ---
 
@@ -59,14 +59,6 @@ I'm a senior Computer Science student at Louisiana Tech University graduating Fa
 
 ---
 
-## 🎓 Coursework
-
-**Current**
-- CSC4061 Senior Capstone II
-- BISC1311 Biological Principles Lab
-- ENGL3633 Scientific and Engr. Presentation
-
----
 
 ## Interests
 
